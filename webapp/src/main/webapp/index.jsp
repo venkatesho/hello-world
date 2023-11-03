@@ -6,8 +6,8 @@
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    <label for="Your Phone"><b>Your Phone</b></label>
-    <input type="text" placeholder="Enter Your Phone" name="Your Phone" id="Your Phone" required>
+    <label for="Your Phone number"><b>Your Phone number</b></label>
+    <input type="text" placeholder="Enter Your Phone number" name="Your Phone number" id="Your Phone number" required>
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter your Password" name="psw" id="psw" required>
     <label for="psw-repeat"><b>Repeat Password</b></label>
