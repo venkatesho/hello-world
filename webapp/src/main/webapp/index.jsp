@@ -5,7 +5,7 @@
     <hr>
 
     <label for="Your email"><b>Your Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter your Email" name="your email" id="email" required>
     <label for="Phone"><b>Phone</b></label>
     <input type="text" placeholder="Phone" name="Phone" id="Phone" required>
     <label for="psw"><b>Password</b></label>
